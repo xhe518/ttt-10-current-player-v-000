@@ -3,7 +3,7 @@ counter = 0
 board.each do |spot|
 if spot != " "
   counter += 1
-end
-end
+  end
+  end
 counter
 end
