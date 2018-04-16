@@ -6,4 +6,3 @@ if spot != " "
 end
 end
 end
-
